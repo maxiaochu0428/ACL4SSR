@@ -1,4 +1,4 @@
-# 内容：HBO_GO_HKG
+# 内容：HBO_GO
 # 数量：20条
 USER-AGENT,HBO%20GO%20PROD*
 DOMAIN-KEYWORD,hbogoasia
@@ -20,3 +20,4 @@ DOMAIN,s3-ap-southeast-1.amazonaws.com
 DOMAIN-SUFFIX,hboasia.com
 DOMAIN-SUFFIX,hbogoasia.com
 DOMAIN-SUFFIX,hbogoasia.hk
+DOMAIN-SUFFIX,hbogoasia.tw
